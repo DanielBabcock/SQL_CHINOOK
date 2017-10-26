@@ -5,6 +5,16 @@ bangazon-ltd/assignments/SQL_CHINOOK
 
 # Learning SQL with Chinook
 
+## TOC
+- [SQL_CHINOOK](#sql-chinook)
+- [Learning SQL with Chinook](#learning-sql-with-chinook)
+  * [Downloading the Database Files](#downloading-the-database-files)
+  * [Moving the SQLite Database to Your Workspace](#moving-the-sqlite-database-to-your-workspace)
+  * [Instructions](#instructions)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 
 ## Downloading the Database Files
 
